@@ -17,7 +17,7 @@ header{
     flex-direction: column;
     justify-content: space-between;
     background-color: #1F2937;
-    padding: 10px 200px 80px;
+    padding: 0px 200px 80px;
     gap: 100px;
 }
 .top{
@@ -27,18 +27,45 @@ header{
 main{
     display: flex;
     justify-content: space-between;
+    gap: 20px;
 }
 .nav{
     display: flex;
     justify-content: space-between;
     gap: 10px;
     align-items: center;
+   
+}
+.nav li a, .sub-text{
+    
+    font-size: 18px;
+    color: #a5a8b0;
+}
+.hero-txt{
+    font-size: 48px;
+    font-weight: 900 ;
+    color: #f9faf8;
+    font-family: "Roboto";
+}
+.left{
+    margin-left: 20px;
+    
+}
+.signup{
+    background-color: #3882f6;
+    border-radius: 7px;
+    border-style: none;
+    padding: 8px 25px;
+    color: #f9faf8;
+    margin-top: 10px;
+    
 }
 .logo{
     margin: 0;
     padding: 0;
-    width: 100px;
+    width: 150px;
 }
 .hero-img{
-    height: 300px;
+    height: auto;
+    width: 500px;
 }
