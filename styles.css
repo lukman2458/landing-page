@@ -69,3 +69,42 @@ main{
     height: auto;
     width: 500px;
 }
+/* ----------------------header------------------------- */
+.Sec2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    padding: 0px 200px 80px;
+}
+.cards{
+    display: flex;
+    justify-content: space-between;
+    gap: 25px;
+}
+.cards div{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 10px;
+}
+.cards img{
+    width: 220px;
+    height: 300px;
+    border-radius: 12px;
+    object-fit: cover;
+}
+.info{
+    margin-top: 50px;
+    font-family: "Roboto",sans-serif;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+}
+.cards div div{
+    font-size: 20px;
+    color: #66676a;
+}
+
+/* -----------------Sec2----------------------------------- */
