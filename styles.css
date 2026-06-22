@@ -158,3 +158,14 @@ main{
     color: #ecedef;
     font-weight: 300 ;
 }
+/* -----------------------Sec4-------------------- */
+footer{
+    font-family: "Roboto",sans-serif;
+    font-size: 20px;
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(184, 181, 181);
+    padding: 50px 200px;
+}
