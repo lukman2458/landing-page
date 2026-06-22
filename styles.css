@@ -108,3 +108,27 @@ main{
 }
 
 /* -----------------Sec2----------------------------------- */
+.Sec3{
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    padding: 120px 300px;
+    justify-content: center;
+    align-items: center;
+}
+.quote{
+    font-family: "Roboto";
+    font-style: italic;
+    font-size: 36px;
+    font-weight: 300;
+    color:#1f2937 ;
+}
+.author{
+    font-family: "Roboto";
+    align-self: flex-end;
+    color:#1f2937 ;
+    margin-right: 20px;
+    font-size: 36px;
+
+}
+/* --------------------Sec3-------------------------- */
