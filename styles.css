@@ -57,8 +57,9 @@ main{
     border-style: none;
     padding: 8px 25px;
     color: #f9faf8;
+}
+.more{
     margin-top: 10px;
-    
 }
 .logo{
     margin: 0;
@@ -75,7 +76,7 @@ main{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 15px;
+    gap: 50px;
     padding: 0px 200px 80px;
 }
 .cards{
@@ -132,3 +133,28 @@ main{
 
 }
 /* --------------------Sec3-------------------------- */
+.Sec4{
+    padding: 100px 200px;
+}
+.box{
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:50px 100px 50px 100px;
+    border-radius: 15px;
+}
+.more2{
+    border:2px solid white ;
+}
+.box1{
+    font-family: "Roboto",sans-serif;
+    color: white;
+    font-size:25px;
+    margin-bottom: 5px;
+}
+.box2{
+    font-family: "Roboto",sans-serif;
+    color: #ecedef;
+    font-weight: 300 ;
+}
