@@ -1,7 +1,24 @@
-I made a Landing page using flexbox and other css properties 
-I choosed Game of Thrones niche and included contents of it 
+# Landing Page | The Odin Project
 
-Live Preview : https://lukman2458.github.io/landing-page/
+I made a Multi-section Landing page using flexbox and other css properties. I choosed Game of Thrones theme and included contents of it
 
+## Live Demo
+🔗 https://lukman2458.github.io/landing-page/
+
+## Preview
+![Calculator Preview](Calculator.PNG)
+
+## Features
+- Perform basic arithmetic operations
+- Clean UI using CSS Grid
+- Interactive buttons
+
+## What I Learned
+- Using Nested Flexbox to arrange elements horizontally and vertically
+- Structuring a multi-section webpage (hero, grid, quote, CTA)
+- Using justify-content and align-items to control spacing and alignment
+- Working with other css and flex properties
+
+# Credits:
 images by geekforgeek77, davitberikashvili2006, naragami_ai, DarkDaysLately 
 on Pinterest
