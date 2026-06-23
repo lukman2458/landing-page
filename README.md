@@ -6,12 +6,7 @@ I made a Multi-section Landing page using flexbox and other css properties. I ch
 🔗 https://lukman2458.github.io/landing-page/
 
 ## Preview
-![Calculator Preview](Calculator.PNG)
-
-## Features
-- Perform basic arithmetic operations
-- Clean UI using CSS Grid
-- Interactive buttons
+![Landing-Page-Preview](images/landing-page1.PNG)
 
 ## What I Learned
 - Using Nested Flexbox to arrange elements horizontally and vertically
@@ -19,6 +14,6 @@ I made a Multi-section Landing page using flexbox and other css properties. I ch
 - Using justify-content and align-items to control spacing and alignment
 - Working with other css and flex properties
 
-# Credits:
+## Credits:
 images by geekforgeek77, davitberikashvili2006, naragami_ai, DarkDaysLately 
 on Pinterest
